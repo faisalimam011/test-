@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Revorioum';
+    src: url('Revorioum.eot');
+    src: url('Revorioum.eot?#iefix') format('embedded-opentype'),
+        url('Revorioum.woff2') format('woff2'),
+        url('Revorioum.woff') format('woff'),
+        url('Revorioum.ttf') format('truetype'),
+        url('Revorioum.svg#Revorioum') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MammaGamma';
+    src: url('MammaGamma.eot');
+    src: url('MammaGamma.eot?#iefix') format('embedded-opentype'),
+        url('MammaGamma.woff2') format('woff2'),
+        url('MammaGamma.woff') format('woff'),
+        url('MammaGamma.ttf') format('truetype'),
+        url('MammaGamma.svg#MammaGamma') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

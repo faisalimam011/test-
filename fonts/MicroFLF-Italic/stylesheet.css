@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MicroFLF';
+    src: url('MicroFLF-Italic.eot');
+    src: url('MicroFLF-Italic.eot?#iefix') format('embedded-opentype'),
+        url('MicroFLF-Italic.woff2') format('woff2'),
+        url('MicroFLF-Italic.woff') format('woff'),
+        url('MicroFLF-Italic.ttf') format('truetype'),
+        url('MicroFLF-Italic.svg#MicroFLF-Italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+

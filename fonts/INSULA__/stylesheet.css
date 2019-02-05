@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Insula';
+    src: url('Insula.eot');
+    src: url('Insula.eot?#iefix') format('embedded-opentype'),
+        url('Insula.woff2') format('woff2'),
+        url('Insula.woff') format('woff'),
+        url('Insula.ttf') format('truetype'),
+        url('Insula.svg#Insula') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

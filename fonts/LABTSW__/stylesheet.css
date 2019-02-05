@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Labtop Superwide';
+    src: url('LabtopSuperwide.eot');
+    src: url('LabtopSuperwide.eot?#iefix') format('embedded-opentype'),
+        url('LabtopSuperwide.woff2') format('woff2'),
+        url('LabtopSuperwide.woff') format('woff'),
+        url('LabtopSuperwide.ttf') format('truetype'),
+        url('LabtopSuperwide.svg#LabtopSuperwide') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

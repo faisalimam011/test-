@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SF Fourche SC';
+    src: url('SFFourcheSC.eot');
+    src: url('SFFourcheSC.eot?#iefix') format('embedded-opentype'),
+        url('SFFourcheSC.woff2') format('woff2'),
+        url('SFFourcheSC.woff') format('woff'),
+        url('SFFourcheSC.ttf') format('truetype'),
+        url('SFFourcheSC.svg#SFFourcheSC') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

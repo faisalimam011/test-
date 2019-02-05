@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Remachine Script Personal Use';
+    src: url('RemachineScriptPersonalUse.eot');
+    src: url('RemachineScriptPersonalUse.eot?#iefix') format('embedded-opentype'),
+        url('RemachineScriptPersonalUse.woff2') format('woff2'),
+        url('RemachineScriptPersonalUse.woff') format('woff'),
+        url('RemachineScriptPersonalUse.ttf') format('truetype'),
+        url('RemachineScriptPersonalUse.svg#RemachineScriptPersonalUse') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

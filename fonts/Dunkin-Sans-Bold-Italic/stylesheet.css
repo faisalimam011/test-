@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Dunkin Sans';
+    src: url('DunkinSans-BoldItalic.eot');
+    src: url('DunkinSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('DunkinSans-BoldItalic.woff2') format('woff2'),
+        url('DunkinSans-BoldItalic.woff') format('woff'),
+        url('DunkinSans-BoldItalic.ttf') format('truetype'),
+        url('DunkinSans-BoldItalic.svg#DunkinSans-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+

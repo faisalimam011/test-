@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Old Gate Lane NF';
+    src: url('OldGateLaneNF.eot');
+    src: url('OldGateLaneNF.eot?#iefix') format('embedded-opentype'),
+        url('OldGateLaneNF.woff2') format('woff2'),
+        url('OldGateLaneNF.woff') format('woff'),
+        url('OldGateLaneNF.ttf') format('truetype'),
+        url('OldGateLaneNF.svg#OldGateLaneNF') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

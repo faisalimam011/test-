@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Airstrike 3D';
+    src: url('Airstrike3D.eot');
+    src: url('Airstrike3D.eot?#iefix') format('embedded-opentype'),
+        url('Airstrike3D.woff2') format('woff2'),
+        url('Airstrike3D.woff') format('woff'),
+        url('Airstrike3D.ttf') format('truetype'),
+        url('Airstrike3D.svg#Airstrike3D') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Quarca Cond Book';
+    src: url('Quarca-ConBooIt.eot');
+    src: url('Quarca-ConBooIt.eot?#iefix') format('embedded-opentype'),
+        url('Quarca-ConBooIt.woff2') format('woff2'),
+        url('Quarca-ConBooIt.woff') format('woff'),
+        url('Quarca-ConBooIt.ttf') format('truetype'),
+        url('Quarca-ConBooIt.svg#Quarca-ConBooIt') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

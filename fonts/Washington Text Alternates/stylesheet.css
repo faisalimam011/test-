@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Washington Text Alternates';
+    src: url('WashingtonText-Alternates.eot');
+    src: url('WashingtonText-Alternates.eot?#iefix') format('embedded-opentype'),
+        url('WashingtonText-Alternates.woff2') format('woff2'),
+        url('WashingtonText-Alternates.woff') format('woff'),
+        url('WashingtonText-Alternates.ttf') format('truetype'),
+        url('WashingtonText-Alternates.svg#WashingtonText-Alternates') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

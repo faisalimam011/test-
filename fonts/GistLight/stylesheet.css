@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Gist';
+    src: url('GistLight.eot');
+    src: url('GistLight.eot?#iefix') format('embedded-opentype'),
+        url('GistLight.woff2') format('woff2'),
+        url('GistLight.woff') format('woff'),
+        url('GistLight.ttf') format('truetype'),
+        url('GistLight.svg#GistLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Prince Valiant';
+    src: url('PrinceValiant.eot');
+    src: url('PrinceValiant.eot?#iefix') format('embedded-opentype'),
+        url('PrinceValiant.woff2') format('woff2'),
+        url('PrinceValiant.woff') format('woff'),
+        url('PrinceValiant.ttf') format('truetype'),
+        url('PrinceValiant.svg#PrinceValiant') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

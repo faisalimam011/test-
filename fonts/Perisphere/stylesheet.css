@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Perisphere';
+    src: url('Perisphere.eot');
+    src: url('Perisphere.eot?#iefix') format('embedded-opentype'),
+        url('Perisphere.woff2') format('woff2'),
+        url('Perisphere.woff') format('woff'),
+        url('Perisphere.ttf') format('truetype'),
+        url('Perisphere.svg#Perisphere') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

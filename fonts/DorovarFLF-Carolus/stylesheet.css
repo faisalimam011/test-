@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'DorovarFLF-Carolus';
+    src: url('DorovarFLF-Carolus.eot');
+    src: url('DorovarFLF-Carolus.eot?#iefix') format('embedded-opentype'),
+        url('DorovarFLF-Carolus.woff2') format('woff2'),
+        url('DorovarFLF-Carolus.woff') format('woff'),
+        url('DorovarFLF-Carolus.ttf') format('truetype'),
+        url('DorovarFLF-Carolus.svg#DorovarFLF-Carolus') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+

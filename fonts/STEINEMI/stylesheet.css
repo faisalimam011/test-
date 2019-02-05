@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Steinem';
+    src: url('Steinem-Italic.eot');
+    src: url('Steinem-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Steinem-Italic.woff2') format('woff2'),
+        url('Steinem-Italic.woff') format('woff'),
+        url('Steinem-Italic.ttf') format('truetype'),
+        url('Steinem-Italic.svg#Steinem-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

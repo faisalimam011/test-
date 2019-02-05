@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SF Fourche Condensed';
+    src: url('SFFourcheCondensed-Italic.eot');
+    src: url('SFFourcheCondensed-Italic.eot?#iefix') format('embedded-opentype'),
+        url('SFFourcheCondensed-Italic.woff2') format('woff2'),
+        url('SFFourcheCondensed-Italic.woff') format('woff'),
+        url('SFFourcheCondensed-Italic.ttf') format('truetype'),
+        url('SFFourcheCondensed-Italic.svg#SFFourcheCondensed-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

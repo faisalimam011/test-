@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'RockoFLF';
+    src: url('RockoFLF-Bold.eot');
+    src: url('RockoFLF-Bold.eot?#iefix') format('embedded-opentype'),
+        url('RockoFLF-Bold.woff2') format('woff2'),
+        url('RockoFLF-Bold.woff') format('woff'),
+        url('RockoFLF-Bold.ttf') format('truetype'),
+        url('RockoFLF-Bold.svg#RockoFLF-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

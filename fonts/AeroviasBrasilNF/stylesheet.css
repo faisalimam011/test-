@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Aerovias Brasil NF';
+    src: url('AeroviasBrasilNF.eot');
+    src: url('AeroviasBrasilNF.eot?#iefix') format('embedded-opentype'),
+        url('AeroviasBrasilNF.woff2') format('woff2'),
+        url('AeroviasBrasilNF.woff') format('woff'),
+        url('AeroviasBrasilNF.ttf') format('truetype'),
+        url('AeroviasBrasilNF.svg#AeroviasBrasilNF') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

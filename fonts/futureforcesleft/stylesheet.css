@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Future Forces Leftalic';
+    src: url('FutureForcesLeftalic.eot');
+    src: url('FutureForcesLeftalic.eot?#iefix') format('embedded-opentype'),
+        url('FutureForcesLeftalic.woff2') format('woff2'),
+        url('FutureForcesLeftalic.woff') format('woff'),
+        url('FutureForcesLeftalic.ttf') format('truetype'),
+        url('FutureForcesLeftalic.svg#FutureForcesLeftalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

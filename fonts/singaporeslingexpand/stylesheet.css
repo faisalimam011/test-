@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Singapore Sling Expanded';
+    src: url('SingaporeSlingExpanded.eot');
+    src: url('SingaporeSlingExpanded.eot?#iefix') format('embedded-opentype'),
+        url('SingaporeSlingExpanded.woff2') format('woff2'),
+        url('SingaporeSlingExpanded.woff') format('woff'),
+        url('SingaporeSlingExpanded.ttf') format('truetype'),
+        url('SingaporeSlingExpanded.svg#SingaporeSlingExpanded') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

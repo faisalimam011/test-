@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Vanilla Extract';
+    src: url('VanillaExtractRegular.eot');
+    src: url('VanillaExtractRegular.eot?#iefix') format('embedded-opentype'),
+        url('VanillaExtractRegular.woff2') format('woff2'),
+        url('VanillaExtractRegular.woff') format('woff'),
+        url('VanillaExtractRegular.ttf') format('truetype'),
+        url('VanillaExtractRegular.svg#VanillaExtractRegular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+

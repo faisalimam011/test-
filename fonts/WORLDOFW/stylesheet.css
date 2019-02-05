@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'World of Water';
+    src: url('WorldofWater.eot');
+    src: url('WorldofWater.eot?#iefix') format('embedded-opentype'),
+        url('WorldofWater.woff2') format('woff2'),
+        url('WorldofWater.woff') format('woff'),
+        url('WorldofWater.ttf') format('truetype'),
+        url('WorldofWater.svg#WorldofWater') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

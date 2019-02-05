@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'UpperEastSide';
+    src: url('UpperEastSide.eot');
+    src: url('UpperEastSide.eot?#iefix') format('embedded-opentype'),
+        url('UpperEastSide.woff2') format('woff2'),
+        url('UpperEastSide.woff') format('woff'),
+        url('UpperEastSide.ttf') format('truetype'),
+        url('UpperEastSide.svg#UpperEastSide') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

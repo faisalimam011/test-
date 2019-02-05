@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Silhouetto';
+    src: url('Silhouetto-Regular.eot');
+    src: url('Silhouetto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Silhouetto-Regular.woff2') format('woff2'),
+        url('Silhouetto-Regular.woff') format('woff'),
+        url('Silhouetto-Regular.ttf') format('truetype'),
+        url('Silhouetto-Regular.svg#Silhouetto-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

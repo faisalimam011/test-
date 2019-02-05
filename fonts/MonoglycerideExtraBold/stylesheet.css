@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Monoglyceride';
+    src: url('MonoglycerideExtraBold.eot');
+    src: url('MonoglycerideExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('MonoglycerideExtraBold.woff2') format('woff2'),
+        url('MonoglycerideExtraBold.woff') format('woff'),
+        url('MonoglycerideExtraBold.ttf') format('truetype'),
+        url('MonoglycerideExtraBold.svg#MonoglycerideExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+

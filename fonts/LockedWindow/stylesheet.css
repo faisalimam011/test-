@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Locked Window';
+    src: url('LockedWindow.eot');
+    src: url('LockedWindow.eot?#iefix') format('embedded-opentype'),
+        url('LockedWindow.woff2') format('woff2'),
+        url('LockedWindow.woff') format('woff'),
+        url('LockedWindow.ttf') format('truetype'),
+        url('LockedWindow.svg#LockedWindow') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

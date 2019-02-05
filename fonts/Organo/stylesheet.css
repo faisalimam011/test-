@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Organo (colored version at: logomagazin.com/organo-font)';
+    src: url('Organocoloredversionatlogomagazincomorgano-font.eot');
+    src: url('Organocoloredversionatlogomagazincomorgano-font.eot?#iefix') format('embedded-opentype'),
+        url('Organocoloredversionatlogomagazincomorgano-font.woff2') format('woff2'),
+        url('Organocoloredversionatlogomagazincomorgano-font.woff') format('woff'),
+        url('Organocoloredversionatlogomagazincomorgano-font.ttf') format('truetype'),
+        url('Organocoloredversionatlogomagazincomorgano-font.svg#Organocoloredversionat:logomagazin.comorgano-font') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

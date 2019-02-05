@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Labtop Overscore';
+    src: url('LabtopOverscore.eot');
+    src: url('LabtopOverscore.eot?#iefix') format('embedded-opentype'),
+        url('LabtopOverscore.woff2') format('woff2'),
+        url('LabtopOverscore.woff') format('woff'),
+        url('LabtopOverscore.ttf') format('truetype'),
+        url('LabtopOverscore.svg#LabtopOverscore') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

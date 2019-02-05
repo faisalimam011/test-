@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Steinem';
+    src: url('Steinem-Bold.eot');
+    src: url('Steinem-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Steinem-Bold.woff2') format('woff2'),
+        url('Steinem-Bold.woff') format('woff'),
+        url('Steinem-Bold.ttf') format('truetype'),
+        url('Steinem-Bold.svg#Steinem-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

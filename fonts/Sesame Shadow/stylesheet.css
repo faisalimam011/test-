@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Sesame Shadow';
+    src: url('Sesame-Shadow.eot');
+    src: url('Sesame-Shadow.eot?#iefix') format('embedded-opentype'),
+        url('Sesame-Shadow.woff2') format('woff2'),
+        url('Sesame-Shadow.woff') format('woff'),
+        url('Sesame-Shadow.ttf') format('truetype'),
+        url('Sesame-Shadow.svg#Sesame-Shadow') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Airstrike';
+    src: url('AirstrikeBold.eot');
+    src: url('AirstrikeBold.eot?#iefix') format('embedded-opentype'),
+        url('AirstrikeBold.woff2') format('woff2'),
+        url('AirstrikeBold.woff') format('woff'),
+        url('AirstrikeBold.ttf') format('truetype'),
+        url('AirstrikeBold.svg#AirstrikeBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

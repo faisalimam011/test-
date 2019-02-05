@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Washington Text';
+    src: url('WashingtonText-Regular.eot');
+    src: url('WashingtonText-Regular.eot?#iefix') format('embedded-opentype'),
+        url('WashingtonText-Regular.woff2') format('woff2'),
+        url('WashingtonText-Regular.woff') format('woff'),
+        url('WashingtonText-Regular.ttf') format('truetype'),
+        url('WashingtonText-Regular.svg#WashingtonText-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

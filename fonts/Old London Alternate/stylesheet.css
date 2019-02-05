@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Old London Alternate';
+    src: url('OldLondonAlternate.eot');
+    src: url('OldLondonAlternate.eot?#iefix') format('embedded-opentype'),
+        url('OldLondonAlternate.woff2') format('woff2'),
+        url('OldLondonAlternate.woff') format('woff'),
+        url('OldLondonAlternate.ttf') format('truetype'),
+        url('OldLondonAlternate.svg#OldLondonAlternate') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

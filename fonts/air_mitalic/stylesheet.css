@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Air Millhouse';
+    src: url('AirMillhouseItalic.eot');
+    src: url('AirMillhouseItalic.eot?#iefix') format('embedded-opentype'),
+        url('AirMillhouseItalic.woff2') format('woff2'),
+        url('AirMillhouseItalic.woff') format('woff'),
+        url('AirMillhouseItalic.ttf') format('truetype'),
+        url('AirMillhouseItalic.svg#AirMillhouseItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SF Orson Casual Shaded';
+    src: url('SFOrsonCasualShaded.eot');
+    src: url('SFOrsonCasualShaded.eot?#iefix') format('embedded-opentype'),
+        url('SFOrsonCasualShaded.woff2') format('woff2'),
+        url('SFOrsonCasualShaded.woff') format('woff'),
+        url('SFOrsonCasualShaded.ttf') format('truetype'),
+        url('SFOrsonCasualShaded.svg#SFOrsonCasualShaded') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

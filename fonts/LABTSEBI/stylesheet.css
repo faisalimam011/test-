@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Labtop Secundo';
+    src: url('LabtopSecundo-BoldItalic.eot');
+    src: url('LabtopSecundo-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('LabtopSecundo-BoldItalic.woff2') format('woff2'),
+        url('LabtopSecundo-BoldItalic.woff') format('woff'),
+        url('LabtopSecundo-BoldItalic.ttf') format('truetype'),
+        url('LabtopSecundo-BoldItalic.svg#LabtopSecundo-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+

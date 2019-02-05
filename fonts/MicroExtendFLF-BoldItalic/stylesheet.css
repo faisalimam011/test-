@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MicroExtendFLF';
+    src: url('MicroExtendFLF-BoldItalic.eot');
+    src: url('MicroExtendFLF-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('MicroExtendFLF-BoldItalic.woff2') format('woff2'),
+        url('MicroExtendFLF-BoldItalic.woff') format('woff'),
+        url('MicroExtendFLF-BoldItalic.ttf') format('truetype'),
+        url('MicroExtendFLF-BoldItalic.svg#MicroExtendFLF-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+

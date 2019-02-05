@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Singapore Sling';
+    src: url('SingaporeSlingBold.eot');
+    src: url('SingaporeSlingBold.eot?#iefix') format('embedded-opentype'),
+        url('SingaporeSlingBold.woff2') format('woff2'),
+        url('SingaporeSlingBold.woff') format('woff'),
+        url('SingaporeSlingBold.ttf') format('truetype'),
+        url('SingaporeSlingBold.svg#SingaporeSlingBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

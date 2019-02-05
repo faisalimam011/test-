@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Teko';
+    src: url('Teko-Light.eot');
+    src: url('Teko-Light.eot?#iefix') format('embedded-opentype'),
+        url('Teko-Light.woff2') format('woff2'),
+        url('Teko-Light.woff') format('woff'),
+        url('Teko-Light.ttf') format('truetype'),
+        url('Teko-Light.svg#Teko-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+

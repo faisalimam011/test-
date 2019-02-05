@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Day Poster Shadow NF';
+    src: url('DayPosterShadowNF.eot');
+    src: url('DayPosterShadowNF.eot?#iefix') format('embedded-opentype'),
+        url('DayPosterShadowNF.woff2') format('woff2'),
+        url('DayPosterShadowNF.woff') format('woff'),
+        url('DayPosterShadowNF.ttf') format('truetype'),
+        url('DayPosterShadowNF.svg#DayPosterShadowNF') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

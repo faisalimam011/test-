@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Quarca Norm';
+    src: url('Quarca-NorLigIt.eot');
+    src: url('Quarca-NorLigIt.eot?#iefix') format('embedded-opentype'),
+        url('Quarca-NorLigIt.woff2') format('woff2'),
+        url('Quarca-NorLigIt.woff') format('woff'),
+        url('Quarca-NorLigIt.ttf') format('truetype'),
+        url('Quarca-NorLigIt.svg#Quarca-NorLigIt') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+

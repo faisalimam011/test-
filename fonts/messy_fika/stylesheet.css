@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Messy Fika';
+    src: url('MessyFika.eot');
+    src: url('MessyFika.eot?#iefix') format('embedded-opentype'),
+        url('MessyFika.woff2') format('woff2'),
+        url('MessyFika.woff') format('woff'),
+        url('MessyFika.ttf') format('truetype'),
+        url('MessyFika.svg#MessyFika') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

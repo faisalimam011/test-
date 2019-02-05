@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SF Orson Casual';
+    src: url('SFOrsonCasualHeavy.eot');
+    src: url('SFOrsonCasualHeavy.eot?#iefix') format('embedded-opentype'),
+        url('SFOrsonCasualHeavy.woff2') format('woff2'),
+        url('SFOrsonCasualHeavy.woff') format('woff'),
+        url('SFOrsonCasualHeavy.ttf') format('truetype'),
+        url('SFOrsonCasualHeavy.svg#SFOrsonCasualHeavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+

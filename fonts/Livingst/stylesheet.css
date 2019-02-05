@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Livingstone';
+    src: url('Livingstone.eot');
+    src: url('Livingstone.eot?#iefix') format('embedded-opentype'),
+        url('Livingstone.woff2') format('woff2'),
+        url('Livingstone.woff') format('woff'),
+        url('Livingstone.ttf') format('truetype'),
+        url('Livingstone.svg#Livingstone') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Sevillana';
+    src: url('Sevillana-Regular.eot');
+    src: url('Sevillana-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Sevillana-Regular.woff2') format('woff2'),
+        url('Sevillana-Regular.woff') format('woff'),
+        url('Sevillana-Regular.ttf') format('truetype'),
+        url('Sevillana-Regular.svg#Sevillana-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'RitzFLFCond';
+    src: url('RitzFLFCond.eot');
+    src: url('RitzFLFCond.eot?#iefix') format('embedded-opentype'),
+        url('RitzFLFCond.woff2') format('woff2'),
+        url('RitzFLFCond.woff') format('woff'),
+        url('RitzFLFCond.ttf') format('truetype'),
+        url('RitzFLFCond.svg#RitzFLFCond') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+

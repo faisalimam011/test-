@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Louisianne Contour';
+    src: url('LouisianneContour-Black.eot');
+    src: url('LouisianneContour-Black.eot?#iefix') format('embedded-opentype'),
+        url('LouisianneContour-Black.woff2') format('woff2'),
+        url('LouisianneContour-Black.woff') format('woff'),
+        url('LouisianneContour-Black.ttf') format('truetype'),
+        url('LouisianneContour-Black.svg#LouisianneContour-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+

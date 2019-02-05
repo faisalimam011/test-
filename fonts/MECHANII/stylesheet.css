@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Mechanihan';
+    src: url('Mechanihan-Italic.eot');
+    src: url('Mechanihan-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Mechanihan-Italic.woff2') format('woff2'),
+        url('Mechanihan-Italic.woff') format('woff'),
+        url('Mechanihan-Italic.ttf') format('truetype'),
+        url('Mechanihan-Italic.svg#Mechanihan-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

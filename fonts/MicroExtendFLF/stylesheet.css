@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MicroExtendFLF';
+    src: url('MicroExtendFLF.eot');
+    src: url('MicroExtendFLF.eot?#iefix') format('embedded-opentype'),
+        url('MicroExtendFLF.woff2') format('woff2'),
+        url('MicroExtendFLF.woff') format('woff'),
+        url('MicroExtendFLF.ttf') format('truetype'),
+        url('MicroExtendFLF.svg#MicroExtendFLF') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+

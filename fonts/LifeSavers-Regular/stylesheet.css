@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Life Savers';
+    src: url('LifeSavers-Regular.eot');
+    src: url('LifeSavers-Regular.eot?#iefix') format('embedded-opentype'),
+        url('LifeSavers-Regular.woff2') format('woff2'),
+        url('LifeSavers-Regular.woff') format('woff'),
+        url('LifeSavers-Regular.ttf') format('truetype'),
+        url('LifeSavers-Regular.svg#LifeSavers-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

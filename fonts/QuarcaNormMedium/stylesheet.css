@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Quarca Norm';
+    src: url('Quarca-NorMed.eot');
+    src: url('Quarca-NorMed.eot?#iefix') format('embedded-opentype'),
+        url('Quarca-NorMed.woff2') format('woff2'),
+        url('Quarca-NorMed.woff') format('woff'),
+        url('Quarca-NorMed.ttf') format('truetype'),
+        url('Quarca-NorMed.svg#Quarca-NorMed') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+

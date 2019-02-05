@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Singapore Sling Outline';
+    src: url('SingaporeSlingOutlineItalic.eot');
+    src: url('SingaporeSlingOutlineItalic.eot?#iefix') format('embedded-opentype'),
+        url('SingaporeSlingOutlineItalic.woff2') format('woff2'),
+        url('SingaporeSlingOutlineItalic.woff') format('woff'),
+        url('SingaporeSlingOutlineItalic.ttf') format('truetype'),
+        url('SingaporeSlingOutlineItalic.svg#SingaporeSlingOutlineItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

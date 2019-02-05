@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Marvel';
+    src: url('Marvel-BoldItalic.eot');
+    src: url('Marvel-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Marvel-BoldItalic.woff2') format('woff2'),
+        url('Marvel-BoldItalic.woff') format('woff'),
+        url('Marvel-BoldItalic.ttf') format('truetype'),
+        url('Marvel-BoldItalic.svg#Marvel-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+

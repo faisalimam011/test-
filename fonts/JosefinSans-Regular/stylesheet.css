@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('JosefinSans.eot');
+    src: url('JosefinSans.eot?#iefix') format('embedded-opentype'),
+        url('JosefinSans.woff2') format('woff2'),
+        url('JosefinSans.woff') format('woff'),
+        url('JosefinSans.ttf') format('truetype'),
+        url('JosefinSans.svg#JosefinSans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

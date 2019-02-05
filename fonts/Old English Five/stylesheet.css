@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Old English Five';
+    src: url('OldEnglishFive.eot');
+    src: url('OldEnglishFive.eot?#iefix') format('embedded-opentype'),
+        url('OldEnglishFive.woff2') format('woff2'),
+        url('OldEnglishFive.woff') format('woff'),
+        url('OldEnglishFive.ttf') format('truetype'),
+        url('OldEnglishFive.svg#OldEnglishFive') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

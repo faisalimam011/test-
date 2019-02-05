@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'NEW ACADEMY';
+    src: url('NEWACADEMY.eot');
+    src: url('NEWACADEMY.eot?#iefix') format('embedded-opentype'),
+        url('NEWACADEMY.woff2') format('woff2'),
+        url('NEWACADEMY.woff') format('woff'),
+        url('NEWACADEMY.ttf') format('truetype'),
+        url('NEWACADEMY.svg#NEWACADEMY') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

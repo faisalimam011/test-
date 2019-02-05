@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Prisma';
+    src: url('Prisma.eot');
+    src: url('Prisma.eot?#iefix') format('embedded-opentype'),
+        url('Prisma.woff2') format('woff2'),
+        url('Prisma.woff') format('woff'),
+        url('Prisma.ttf') format('truetype'),
+        url('Prisma.svg#Prisma') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

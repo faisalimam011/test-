@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Virgo 01';
+    src: url('Virgo01.eot');
+    src: url('Virgo01.eot?#iefix') format('embedded-opentype'),
+        url('Virgo01.woff2') format('woff2'),
+        url('Virgo01.woff') format('woff'),
+        url('Virgo01.ttf') format('truetype'),
+        url('Virgo01.svg#Virgo01') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

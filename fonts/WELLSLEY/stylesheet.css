@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Wellsley';
+    src: url('Wellsley.eot');
+    src: url('Wellsley.eot?#iefix') format('embedded-opentype'),
+        url('Wellsley.woff2') format('woff2'),
+        url('Wellsley.woff') format('woff'),
+        url('Wellsley.ttf') format('truetype'),
+        url('Wellsley.svg#Wellsley') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Instruction';
+    src: url('Instruction.eot');
+    src: url('Instruction.eot?#iefix') format('embedded-opentype'),
+        url('Instruction.woff2') format('woff2'),
+        url('Instruction.woff') format('woff'),
+        url('Instruction.ttf') format('truetype'),
+        url('Instruction.svg#Instruction') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Quarca Ext Regular';
+    src: url('Quarca-ExtRegIt.eot');
+    src: url('Quarca-ExtRegIt.eot?#iefix') format('embedded-opentype'),
+        url('Quarca-ExtRegIt.woff2') format('woff2'),
+        url('Quarca-ExtRegIt.woff') format('woff'),
+        url('Quarca-ExtRegIt.ttf') format('truetype'),
+        url('Quarca-ExtRegIt.svg#Quarca-ExtRegIt') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

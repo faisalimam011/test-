@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Labtop';
+    src: url('Labtop-BoldItalic.eot');
+    src: url('Labtop-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Labtop-BoldItalic.woff2') format('woff2'),
+        url('Labtop-BoldItalic.woff') format('woff'),
+        url('Labtop-BoldItalic.ttf') format('truetype'),
+        url('Labtop-BoldItalic.svg#Labtop-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Salsa';
+    src: url('Salsa-Regular.eot');
+    src: url('Salsa-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Salsa-Regular.woff2') format('woff2'),
+        url('Salsa-Regular.woff') format('woff'),
+        url('Salsa-Regular.ttf') format('truetype'),
+        url('Salsa-Regular.svg#Salsa-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

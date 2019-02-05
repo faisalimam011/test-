@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SF Espresso Shack Condensed';
+    src: url('SFEspressoShackCondensed-Bold.eot');
+    src: url('SFEspressoShackCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+        url('SFEspressoShackCondensed-Bold.woff2') format('woff2'),
+        url('SFEspressoShackCondensed-Bold.woff') format('woff'),
+        url('SFEspressoShackCondensed-Bold.ttf') format('truetype'),
+        url('SFEspressoShackCondensed-Bold.svg#SFEspressoShackCondensed-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

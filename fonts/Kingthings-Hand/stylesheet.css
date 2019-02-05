@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Kingthings Hand';
+    src: url('KingthingsHand.eot');
+    src: url('KingthingsHand.eot?#iefix') format('embedded-opentype'),
+        url('KingthingsHand.woff2') format('woff2'),
+        url('KingthingsHand.woff') format('woff'),
+        url('KingthingsHand.ttf') format('truetype'),
+        url('KingthingsHand.svg#KingthingsHand') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+

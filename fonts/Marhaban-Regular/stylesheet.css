@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Marhaban';
+    src: url('Marhaban-Regular.eot');
+    src: url('Marhaban-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Marhaban-Regular.woff2') format('woff2'),
+        url('Marhaban-Regular.woff') format('woff'),
+        url('Marhaban-Regular.ttf') format('truetype'),
+        url('Marhaban-Regular.svg#Marhaban-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

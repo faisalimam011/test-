@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Steinem Unicode';
+    src: url('SteinemUnicode.eot');
+    src: url('SteinemUnicode.eot?#iefix') format('embedded-opentype'),
+        url('SteinemUnicode.woff2') format('woff2'),
+        url('SteinemUnicode.woff') format('woff'),
+        url('SteinemUnicode.ttf') format('truetype'),
+        url('SteinemUnicode.svg#SteinemUnicode') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

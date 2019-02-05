@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Monserga FFP';
+    src: url('Monserga.eot');
+    src: url('Monserga.eot?#iefix') format('embedded-opentype'),
+        url('Monserga.woff2') format('woff2'),
+        url('Monserga.woff') format('woff'),
+        url('Monserga.ttf') format('truetype'),
+        url('Monserga.svg#Monserga') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Quarca Cond';
+    src: url('Quarca-ConThi.eot');
+    src: url('Quarca-ConThi.eot?#iefix') format('embedded-opentype'),
+        url('Quarca-ConThi.woff2') format('woff2'),
+        url('Quarca-ConThi.woff') format('woff'),
+        url('Quarca-ConThi.ttf') format('truetype'),
+        url('Quarca-ConThi.svg#Quarca-ConThi') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+

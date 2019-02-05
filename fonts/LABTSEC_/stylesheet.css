@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Labtop Secundo';
+    src: url('LabtopSecundo.eot');
+    src: url('LabtopSecundo.eot?#iefix') format('embedded-opentype'),
+        url('LabtopSecundo.woff2') format('woff2'),
+        url('LabtopSecundo.woff') format('woff'),
+        url('LabtopSecundo.ttf') format('truetype'),
+        url('LabtopSecundo.svg#LabtopSecundo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

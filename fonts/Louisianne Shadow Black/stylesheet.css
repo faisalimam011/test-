@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Louisianne Shadow';
+    src: url('LouisianneShadow-Black.eot');
+    src: url('LouisianneShadow-Black.eot?#iefix') format('embedded-opentype'),
+        url('LouisianneShadow-Black.woff2') format('woff2'),
+        url('LouisianneShadow-Black.woff') format('woff'),
+        url('LouisianneShadow-Black.ttf') format('truetype'),
+        url('LouisianneShadow-Black.svg#LouisianneShadow-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+

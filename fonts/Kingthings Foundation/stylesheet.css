@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Kingthings Foundation';
+    src: url('KingthingsFoundation.eot');
+    src: url('KingthingsFoundation.eot?#iefix') format('embedded-opentype'),
+        url('KingthingsFoundation.woff2') format('woff2'),
+        url('KingthingsFoundation.woff') format('woff'),
+        url('KingthingsFoundation.ttf') format('truetype'),
+        url('KingthingsFoundation.svg#KingthingsFoundation') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+

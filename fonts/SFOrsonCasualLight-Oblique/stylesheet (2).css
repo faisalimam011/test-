@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SF Orson Casual';
+    src: url('SFOrsonCasualLight-Oblique.eot');
+    src: url('SFOrsonCasualLight-Oblique.eot?#iefix') format('embedded-opentype'),
+        url('SFOrsonCasualLight-Oblique.woff2') format('woff2'),
+        url('SFOrsonCasualLight-Oblique.woff') format('woff'),
+        url('SFOrsonCasualLight-Oblique.ttf') format('truetype'),
+        url('SFOrsonCasualLight-Oblique.svg#SFOrsonCasualLight-Oblique') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+

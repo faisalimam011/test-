@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Quarca Cond Regular';
+    src: url('Quarca-ConRegIt.eot');
+    src: url('Quarca-ConRegIt.eot?#iefix') format('embedded-opentype'),
+        url('Quarca-ConRegIt.woff2') format('woff2'),
+        url('Quarca-ConRegIt.woff') format('woff'),
+        url('Quarca-ConRegIt.ttf') format('truetype'),
+        url('Quarca-ConRegIt.svg#Quarca-ConRegIt') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Singapore Sling Condensed';
+    src: url('SingaporeSlingCondensed.eot');
+    src: url('SingaporeSlingCondensed.eot?#iefix') format('embedded-opentype'),
+        url('SingaporeSlingCondensed.woff2') format('woff2'),
+        url('SingaporeSlingCondensed.woff') format('woff'),
+        url('SingaporeSlingCondensed.ttf') format('truetype'),
+        url('SingaporeSlingCondensed.svg#SingaporeSlingCondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

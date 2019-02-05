@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Mechanihan Ribbon';
+    src: url('MechanihanRibbon-Italic.eot');
+    src: url('MechanihanRibbon-Italic.eot?#iefix') format('embedded-opentype'),
+        url('MechanihanRibbon-Italic.woff2') format('woff2'),
+        url('MechanihanRibbon-Italic.woff') format('woff'),
+        url('MechanihanRibbon-Italic.ttf') format('truetype'),
+        url('MechanihanRibbon-Italic.svg#MechanihanRibbon-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Labtop Underscore';
+    src: url('LabtopUnderscore.eot');
+    src: url('LabtopUnderscore.eot?#iefix') format('embedded-opentype'),
+        url('LabtopUnderscore.woff2') format('woff2'),
+        url('LabtopUnderscore.woff') format('woff'),
+        url('LabtopUnderscore.ttf') format('truetype'),
+        url('LabtopUnderscore.svg#LabtopUnderscore') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

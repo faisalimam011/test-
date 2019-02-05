@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Federal Escort 3D';
+    src: url('FederalEscort3DItalic.eot');
+    src: url('FederalEscort3DItalic.eot?#iefix') format('embedded-opentype'),
+        url('FederalEscort3DItalic.woff2') format('woff2'),
+        url('FederalEscort3DItalic.woff') format('woff'),
+        url('FederalEscort3DItalic.ttf') format('truetype'),
+        url('FederalEscort3DItalic.svg#FederalEscort3DItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

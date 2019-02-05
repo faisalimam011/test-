@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Olde English';
+    src: url('OldeEnglish-Regular.eot');
+    src: url('OldeEnglish-Regular.eot?#iefix') format('embedded-opentype'),
+        url('OldeEnglish-Regular.woff2') format('woff2'),
+        url('OldeEnglish-Regular.woff') format('woff'),
+        url('OldeEnglish-Regular.ttf') format('truetype'),
+        url('OldeEnglish-Regular.svg#OldeEnglish-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

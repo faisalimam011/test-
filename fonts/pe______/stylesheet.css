@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Perigord';
+    src: url('Perigord.eot');
+    src: url('Perigord.eot?#iefix') format('embedded-opentype'),
+        url('Perigord.woff2') format('woff2'),
+        url('Perigord.woff') format('woff'),
+        url('Perigord.ttf') format('truetype'),
+        url('Perigord.svg#Perigord') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

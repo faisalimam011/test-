@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Park Lane NF';
+    src: url('ParkLaneNF.eot');
+    src: url('ParkLaneNF.eot?#iefix') format('embedded-opentype'),
+        url('ParkLaneNF.woff2') format('woff2'),
+        url('ParkLaneNF.woff') format('woff'),
+        url('ParkLaneNF.ttf') format('truetype'),
+        url('ParkLaneNF.svg#ParkLaneNF') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

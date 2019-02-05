@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MontereyFLF';
+    src: url('MontereyFLF-BoldItalic.eot');
+    src: url('MontereyFLF-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('MontereyFLF-BoldItalic.woff2') format('woff2'),
+        url('MontereyFLF-BoldItalic.woff') format('woff'),
+        url('MontereyFLF-BoldItalic.ttf') format('truetype'),
+        url('MontereyFLF-BoldItalic.svg#MontereyFLF-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+

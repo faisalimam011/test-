@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Typoline Demi Shadow';
+    src: url('TypolineDemiShadow-Italic.eot');
+    src: url('TypolineDemiShadow-Italic.eot?#iefix') format('embedded-opentype'),
+        url('TypolineDemiShadow-Italic.woff2') format('woff2'),
+        url('TypolineDemiShadow-Italic.woff') format('woff'),
+        url('TypolineDemiShadow-Italic.ttf') format('truetype'),
+        url('TypolineDemiShadow-Italic.svg#TypolineDemiShadow-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

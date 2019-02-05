@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Economica';
+    src: url('Economica-BoldItalic.eot');
+    src: url('Economica-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Economica-BoldItalic.woff2') format('woff2'),
+        url('Economica-BoldItalic.woff') format('woff'),
+        url('Economica-BoldItalic.ttf') format('truetype'),
+        url('Economica-BoldItalic.svg#Economica-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+

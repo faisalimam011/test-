@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Teko';
+    src: url('Teko-Bold.eot');
+    src: url('Teko-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Teko-Bold.woff2') format('woff2'),
+        url('Teko-Bold.woff') format('woff'),
+        url('Teko-Bold.ttf') format('truetype'),
+        url('Teko-Bold.svg#Teko-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

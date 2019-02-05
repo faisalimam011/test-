@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Vonique 64';
+    src: url('Vonique64-BoldItalic.eot');
+    src: url('Vonique64-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Vonique64-BoldItalic.woff2') format('woff2'),
+        url('Vonique64-BoldItalic.woff') format('woff'),
+        url('Vonique64-BoldItalic.ttf') format('truetype'),
+        url('Vonique64-BoldItalic.svg#Vonique64-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+

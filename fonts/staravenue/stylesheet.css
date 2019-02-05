@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Star Avenue';
+    src: url('StarAvenue.eot');
+    src: url('StarAvenue.eot?#iefix') format('embedded-opentype'),
+        url('StarAvenue.woff2') format('woff2'),
+        url('StarAvenue.woff') format('woff'),
+        url('StarAvenue.ttf') format('truetype'),
+        url('StarAvenue.svg#StarAvenue') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

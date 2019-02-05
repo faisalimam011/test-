@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Junegull';
+    src: url('Junegull.eot');
+    src: url('Junegull.eot?#iefix') format('embedded-opentype'),
+        url('Junegull.woff2') format('woff2'),
+        url('Junegull.woff') format('woff'),
+        url('Junegull.ttf') format('truetype'),
+        url('Junegull.svg#Junegull') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SF Espresso Shack';
+    src: url('SFEspressoShack-Bold.eot');
+    src: url('SFEspressoShack-Bold.eot?#iefix') format('embedded-opentype'),
+        url('SFEspressoShack-Bold.woff2') format('woff2'),
+        url('SFEspressoShack-Bold.woff') format('woff'),
+        url('SFEspressoShack-Bold.ttf') format('truetype'),
+        url('SFEspressoShack-Bold.svg#SFEspressoShack-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

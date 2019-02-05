@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'AngloSaxon';
+    src: url('AngloSaxonItalic.eot');
+    src: url('AngloSaxonItalic.eot?#iefix') format('embedded-opentype'),
+        url('AngloSaxonItalic.woff2') format('woff2'),
+        url('AngloSaxonItalic.woff') format('woff'),
+        url('AngloSaxonItalic.ttf') format('truetype'),
+        url('AngloSaxonItalic.svg#AngloSaxonItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+

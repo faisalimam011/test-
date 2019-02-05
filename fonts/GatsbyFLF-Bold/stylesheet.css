@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'GatsbyFLF';
+    src: url('GatsbyFLF-Bold.eot');
+    src: url('GatsbyFLF-Bold.eot?#iefix') format('embedded-opentype'),
+        url('GatsbyFLF-Bold.woff2') format('woff2'),
+        url('GatsbyFLF-Bold.woff') format('woff'),
+        url('GatsbyFLF-Bold.ttf') format('truetype'),
+        url('GatsbyFLF-Bold.svg#GatsbyFLF-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Rimouski Sb';
+    src: url('RimouskiSb-Regular.eot');
+    src: url('RimouskiSb-Regular.eot?#iefix') format('embedded-opentype'),
+        url('RimouskiSb-Regular.woff2') format('woff2'),
+        url('RimouskiSb-Regular.woff') format('woff'),
+        url('RimouskiSb-Regular.ttf') format('truetype'),
+        url('RimouskiSb-Regular.svg#RimouskiSb-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

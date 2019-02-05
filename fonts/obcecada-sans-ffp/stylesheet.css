@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Obcecada Sans';
+    src: url('Obcecada-Sans.eot');
+    src: url('Obcecada-Sans.eot?#iefix') format('embedded-opentype'),
+        url('Obcecada-Sans.woff2') format('woff2'),
+        url('Obcecada-Sans.woff') format('woff'),
+        url('Obcecada-Sans.ttf') format('truetype'),
+        url('Obcecada-Sans.svg#Obcecada-Sans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

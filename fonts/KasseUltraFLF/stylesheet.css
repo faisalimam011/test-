@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'KasseUltraFLF';
+    src: url('KasseUltraFLF.eot');
+    src: url('KasseUltraFLF.eot?#iefix') format('embedded-opentype'),
+        url('KasseUltraFLF.woff2') format('woff2'),
+        url('KasseUltraFLF.woff') format('woff'),
+        url('KasseUltraFLF.ttf') format('truetype'),
+        url('KasseUltraFLF.svg#KasseUltraFLF') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Vonique 64';
+    src: url('Vonique64-Italic.eot');
+    src: url('Vonique64-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Vonique64-Italic.woff2') format('woff2'),
+        url('Vonique64-Italic.woff') format('woff'),
+        url('Vonique64-Italic.ttf') format('truetype'),
+        url('Vonique64-Italic.svg#Vonique64-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Lane Humouresque';
+    src: url('LaneHumouresque.eot');
+    src: url('LaneHumouresque.eot?#iefix') format('embedded-opentype'),
+        url('LaneHumouresque.woff2') format('woff2'),
+        url('LaneHumouresque.woff') format('woff'),
+        url('LaneHumouresque.ttf') format('truetype'),
+        url('LaneHumouresque.svg#LaneHumouresque') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

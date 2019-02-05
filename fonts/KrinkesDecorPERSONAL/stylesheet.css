@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Krinkes Decor PERSONAL USE';
+    src: url('KrinkesDecorPERSONALUSE.eot');
+    src: url('KrinkesDecorPERSONALUSE.eot?#iefix') format('embedded-opentype'),
+        url('KrinkesDecorPERSONALUSE.woff2') format('woff2'),
+        url('KrinkesDecorPERSONALUSE.woff') format('woff'),
+        url('KrinkesDecorPERSONALUSE.ttf') format('truetype'),
+        url('KrinkesDecorPERSONALUSE.svg#KrinkesDecorPERSONALUSE') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Semi-Coder';
+    src: url('SemiCoder-Regular.eot');
+    src: url('SemiCoder-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SemiCoder-Regular.woff2') format('woff2'),
+        url('SemiCoder-Regular.woff') format('woff'),
+        url('SemiCoder-Regular.ttf') format('truetype'),
+        url('SemiCoder-Regular.svg#SemiCoder-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

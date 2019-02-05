@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Krinkes Regular PERSONAL USE';
+    src: url('KrinkesRegularPERSONALUSE.eot');
+    src: url('KrinkesRegularPERSONALUSE.eot?#iefix') format('embedded-opentype'),
+        url('KrinkesRegularPERSONALUSE.woff2') format('woff2'),
+        url('KrinkesRegularPERSONALUSE.woff') format('woff'),
+        url('KrinkesRegularPERSONALUSE.ttf') format('truetype'),
+        url('KrinkesRegularPERSONALUSE.svg#KrinkesRegularPERSONALUSE') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

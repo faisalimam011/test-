@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Naira';
+    src: url('Naira-Regular.eot');
+    src: url('Naira-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Naira-Regular.woff2') format('woff2'),
+        url('Naira-Regular.woff') format('woff'),
+        url('Naira-Regular.ttf') format('truetype'),
+        url('Naira-Regular.svg#Naira-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

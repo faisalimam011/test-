@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Normal Sometimes';
+    src: url('NormalSometimes-Regular.eot');
+    src: url('NormalSometimes-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NormalSometimes-Regular.woff2') format('woff2'),
+        url('NormalSometimes-Regular.woff') format('woff'),
+        url('NormalSometimes-Regular.ttf') format('truetype'),
+        url('NormalSometimes-Regular.svg#NormalSometimes-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

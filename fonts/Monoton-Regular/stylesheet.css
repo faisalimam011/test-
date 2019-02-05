@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Monoton';
+    src: url('Monoton-Regular.eot');
+    src: url('Monoton-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Monoton-Regular.woff2') format('woff2'),
+        url('Monoton-Regular.woff') format('woff'),
+        url('Monoton-Regular.ttf') format('truetype'),
+        url('Monoton-Regular.svg#Monoton-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

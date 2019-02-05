@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Paganini';
+    src: url('Paganini-Light.eot');
+    src: url('Paganini-Light.eot?#iefix') format('embedded-opentype'),
+        url('Paganini-Light.woff2') format('woff2'),
+        url('Paganini-Light.woff') format('woff'),
+        url('Paganini-Light.ttf') format('truetype'),
+        url('Paganini-Light.svg#Paganini-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MontereyMediumFLF';
+    src: url('MontereyMediumFLF.eot');
+    src: url('MontereyMediumFLF.eot?#iefix') format('embedded-opentype'),
+        url('MontereyMediumFLF.woff2') format('woff2'),
+        url('MontereyMediumFLF.woff') format('woff'),
+        url('MontereyMediumFLF.ttf') format('truetype'),
+        url('MontereyMediumFLF.svg#MontereyMediumFLF') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+

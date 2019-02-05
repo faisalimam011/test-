@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Holy Moly';
+    src: url('HolyMoly.eot');
+    src: url('HolyMoly.eot?#iefix') format('embedded-opentype'),
+        url('HolyMoly.woff2') format('woff2'),
+        url('HolyMoly.woff') format('woff'),
+        url('HolyMoly.ttf') format('truetype'),
+        url('HolyMoly.svg#HolyMoly') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

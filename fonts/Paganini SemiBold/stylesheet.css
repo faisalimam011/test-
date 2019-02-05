@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Paganini';
+    src: url('Paganini-SemiBold.eot');
+    src: url('Paganini-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Paganini-SemiBold.woff2') format('woff2'),
+        url('Paganini-SemiBold.woff') format('woff'),
+        url('Paganini-SemiBold.ttf') format('truetype'),
+        url('Paganini-SemiBold.svg#Paganini-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+

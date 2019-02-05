@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Lancaster';
+    src: url('Lancaster.eot');
+    src: url('Lancaster.eot?#iefix') format('embedded-opentype'),
+        url('Lancaster.woff2') format('woff2'),
+        url('Lancaster.woff') format('woff'),
+        url('Lancaster.ttf') format('truetype'),
+        url('Lancaster.svg#Lancaster') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

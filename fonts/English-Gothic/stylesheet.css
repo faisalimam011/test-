@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'English Gothic, 17th c.';
+    src: url('EnglishGothic17thc.eot');
+    src: url('EnglishGothic17thc.eot?#iefix') format('embedded-opentype'),
+        url('EnglishGothic17thc.woff2') format('woff2'),
+        url('EnglishGothic17thc.woff') format('woff'),
+        url('EnglishGothic17thc.ttf') format('truetype'),
+        url('EnglishGothic17thc.svg#EnglishGothic,17thc.') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

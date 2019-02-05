@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Paganini Narrow';
+    src: url('Paganini-Narrow.eot');
+    src: url('Paganini-Narrow.eot?#iefix') format('embedded-opentype'),
+        url('Paganini-Narrow.woff2') format('woff2'),
+        url('Paganini-Narrow.woff') format('woff'),
+        url('Paganini-Narrow.ttf') format('truetype'),
+        url('Paganini-Narrow.svg#Paganini-Narrow') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

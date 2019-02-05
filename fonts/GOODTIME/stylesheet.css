@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Good Times';
+    src: url('GoodTimes.eot');
+    src: url('GoodTimes.eot?#iefix') format('embedded-opentype'),
+        url('GoodTimes.woff2') format('woff2'),
+        url('GoodTimes.woff') format('woff'),
+        url('GoodTimes.ttf') format('truetype'),
+        url('GoodTimes.svg#GoodTimes') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

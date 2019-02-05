@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Reynold Contour';
+    src: url('ReynoldContour.eot');
+    src: url('ReynoldContour.eot?#iefix') format('embedded-opentype'),
+        url('ReynoldContour.woff2') format('woff2'),
+        url('ReynoldContour.woff') format('woff'),
+        url('ReynoldContour.ttf') format('truetype'),
+        url('ReynoldContour.svg#ReynoldContour') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

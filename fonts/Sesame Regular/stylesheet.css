@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Sesame';
+    src: url('Sesame-Regular.eot');
+    src: url('Sesame-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Sesame-Regular.woff2') format('woff2'),
+        url('Sesame-Regular.woff') format('woff'),
+        url('Sesame-Regular.ttf') format('truetype'),
+        url('Sesame-Regular.svg#Sesame-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

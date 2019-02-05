@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Morris Roman Alternate';
+    src: url('MorrisRomanAlternate-Black.eot');
+    src: url('MorrisRomanAlternate-Black.eot?#iefix') format('embedded-opentype'),
+        url('MorrisRomanAlternate-Black.woff2') format('woff2'),
+        url('MorrisRomanAlternate-Black.woff') format('woff'),
+        url('MorrisRomanAlternate-Black.ttf') format('truetype'),
+        url('MorrisRomanAlternate-Black.svg#MorrisRomanAlternate-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+

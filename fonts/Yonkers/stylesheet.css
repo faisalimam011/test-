@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Yonkers';
+    src: url('Yonkers.eot');
+    src: url('Yonkers.eot?#iefix') format('embedded-opentype'),
+        url('Yonkers.woff2') format('woff2'),
+        url('Yonkers.woff') format('woff'),
+        url('Yonkers.ttf') format('truetype'),
+        url('Yonkers.svg#Yonkers') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

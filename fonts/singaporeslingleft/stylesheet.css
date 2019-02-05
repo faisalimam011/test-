@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Singapore Sling Leftalic';
+    src: url('SingaporeSlingLeftalic.eot');
+    src: url('SingaporeSlingLeftalic.eot?#iefix') format('embedded-opentype'),
+        url('SingaporeSlingLeftalic.woff2') format('woff2'),
+        url('SingaporeSlingLeftalic.woff') format('woff'),
+        url('SingaporeSlingLeftalic.ttf') format('truetype'),
+        url('SingaporeSlingLeftalic.svg#SingaporeSlingLeftalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

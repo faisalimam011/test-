@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Ormont';
+    src: url('Ormont_Light.eot');
+    src: url('Ormont_Light.eot?#iefix') format('embedded-opentype'),
+        url('Ormont_Light.woff2') format('woff2'),
+        url('Ormont_Light.woff') format('woff'),
+        url('Ormont_Light.ttf') format('truetype'),
+        url('Ormont_Light.svg#Ormont_Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+

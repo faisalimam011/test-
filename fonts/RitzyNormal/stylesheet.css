@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'RitzFLF';
+    src: url('RitzFLF.eot');
+    src: url('RitzFLF.eot?#iefix') format('embedded-opentype'),
+        url('RitzFLF.woff2') format('woff2'),
+        url('RitzFLF.woff') format('woff'),
+        url('RitzFLF.ttf') format('truetype'),
+        url('RitzFLF.svg#RitzFLF') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+

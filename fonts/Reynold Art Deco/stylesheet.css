@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Reynold Art Deco';
+    src: url('ReynoldArtDeco.eot');
+    src: url('ReynoldArtDeco.eot?#iefix') format('embedded-opentype'),
+        url('ReynoldArtDeco.woff2') format('woff2'),
+        url('ReynoldArtDeco.woff') format('woff'),
+        url('ReynoldArtDeco.ttf') format('truetype'),
+        url('ReynoldArtDeco.svg#ReynoldArtDeco') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

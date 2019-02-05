@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Pirulen';
+    src: url('Pirulen.eot');
+    src: url('Pirulen.eot?#iefix') format('embedded-opentype'),
+        url('Pirulen.woff2') format('woff2'),
+        url('Pirulen.woff') format('woff'),
+        url('Pirulen.ttf') format('truetype'),
+        url('Pirulen.svg#Pirulen') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

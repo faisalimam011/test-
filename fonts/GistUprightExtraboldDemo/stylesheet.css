@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Gist Upright Extrabold Demo';
+    src: url('GistUprightExtraboldDemo.eot');
+    src: url('GistUprightExtraboldDemo.eot?#iefix') format('embedded-opentype'),
+        url('GistUprightExtraboldDemo.woff2') format('woff2'),
+        url('GistUprightExtraboldDemo.woff') format('woff'),
+        url('GistUprightExtraboldDemo.ttf') format('truetype'),
+        url('GistUprightExtraboldDemo.svg#GistUprightExtraboldDemo') format('svg');
+    font-weight: 800;
+    font-style: normal;
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Semi-Casual';
+    src: url('SemiCasual.eot');
+    src: url('SemiCasual.eot?#iefix') format('embedded-opentype'),
+        url('SemiCasual.woff2') format('woff2'),
+        url('SemiCasual.woff') format('woff'),
+        url('SemiCasual.ttf') format('truetype'),
+        url('SemiCasual.svg#SemiCasual') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+

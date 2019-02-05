@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Deutsch Gothic';
+    src: url('Deutsch-Gothic.eot');
+    src: url('Deutsch-Gothic.eot?#iefix') format('embedded-opentype'),
+        url('Deutsch-Gothic.woff2') format('woff2'),
+        url('Deutsch-Gothic.woff') format('woff'),
+        url('Deutsch-Gothic.ttf') format('truetype'),
+        url('Deutsch-Gothic.svg#Deutsch-Gothic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

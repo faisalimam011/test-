@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Grand National Expanded';
+    src: url('GrandNationalExpanded.eot');
+    src: url('GrandNationalExpanded.eot?#iefix') format('embedded-opentype'),
+        url('GrandNationalExpanded.woff2') format('woff2'),
+        url('GrandNationalExpanded.woff') format('woff'),
+        url('GrandNationalExpanded.ttf') format('truetype'),
+        url('GrandNationalExpanded.svg#GrandNationalExpanded') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

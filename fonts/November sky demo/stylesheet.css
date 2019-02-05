@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'November Sky Demo';
+    src: url('NovemberSkyDemo.eot');
+    src: url('NovemberSkyDemo.eot?#iefix') format('embedded-opentype'),
+        url('NovemberSkyDemo.woff2') format('woff2'),
+        url('NovemberSkyDemo.woff') format('woff'),
+        url('NovemberSkyDemo.ttf') format('truetype'),
+        url('NovemberSkyDemo.svg#NovemberSkyDemo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

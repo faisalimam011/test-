@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SF Espresso Shack';
+    src: url('SFEspressoShack-Italic.eot');
+    src: url('SFEspressoShack-Italic.eot?#iefix') format('embedded-opentype'),
+        url('SFEspressoShack-Italic.woff2') format('woff2'),
+        url('SFEspressoShack-Italic.woff') format('woff'),
+        url('SFEspressoShack-Italic.ttf') format('truetype'),
+        url('SFEspressoShack-Italic.svg#SFEspressoShack-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+

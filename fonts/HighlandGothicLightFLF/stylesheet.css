@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'HighlandGothicLightFLF';
+    src: url('HighlandGothicLightFLF.eot');
+    src: url('HighlandGothicLightFLF.eot?#iefix') format('embedded-opentype'),
+        url('HighlandGothicLightFLF.woff2') format('woff2'),
+        url('HighlandGothicLightFLF.woff') format('woff'),
+        url('HighlandGothicLightFLF.ttf') format('truetype'),
+        url('HighlandGothicLightFLF.svg#HighlandGothicLightFLF') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+

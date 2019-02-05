@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Louisianne';
+    src: url('Louisianne-Black.eot');
+    src: url('Louisianne-Black.eot?#iefix') format('embedded-opentype'),
+        url('Louisianne-Black.woff2') format('woff2'),
+        url('Louisianne-Black.woff') format('woff'),
+        url('Louisianne-Black.ttf') format('truetype'),
+        url('Louisianne-Black.svg#Louisianne-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+

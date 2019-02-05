@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'SF Fourche';
+    src: url('SFFourche-BoldItalic.eot');
+    src: url('SFFourche-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('SFFourche-BoldItalic.woff2') format('woff2'),
+        url('SFFourche-BoldItalic.woff') format('woff'),
+        url('SFFourche-BoldItalic.ttf') format('truetype'),
+        url('SFFourche-BoldItalic.svg#SFFourche-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+

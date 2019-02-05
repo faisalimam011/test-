@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Eternity Now';
+    src: url('EternityNow-Regular.eot');
+    src: url('EternityNow-Regular.eot?#iefix') format('embedded-opentype'),
+        url('EternityNow-Regular.woff2') format('woff2'),
+        url('EternityNow-Regular.woff') format('woff'),
+        url('EternityNow-Regular.ttf') format('truetype'),
+        url('EternityNow-Regular.svg#EternityNow-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

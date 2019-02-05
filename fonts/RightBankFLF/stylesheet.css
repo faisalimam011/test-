@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Nickelodeon NF';
+    src: url('NickelodeonNF.eot');
+    src: url('NickelodeonNF.eot?#iefix') format('embedded-opentype'),
+        url('NickelodeonNF.woff2') format('woff2'),
+        url('NickelodeonNF.woff') format('woff'),
+        url('NickelodeonNF.ttf') format('truetype'),
+        url('NickelodeonNF.svg#NickelodeonNF') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

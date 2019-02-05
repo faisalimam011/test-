@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Quarca Norm Book';
+    src: url('Quarca-NorBoo.eot');
+    src: url('Quarca-NorBoo.eot?#iefix') format('embedded-opentype'),
+        url('Quarca-NorBoo.woff2') format('woff2'),
+        url('Quarca-NorBoo.woff') format('woff'),
+        url('Quarca-NorBoo.ttf') format('truetype'),
+        url('Quarca-NorBoo.svg#Quarca-NorBoo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
